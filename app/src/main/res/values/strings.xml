@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CabRouter</string>
+    <string name="search_hint">Buscar destino, nota o tarifa…</string>
+    <string name="title_recent_destinations">Destinos Recientes</string>
+    <string name="title_save_current">Guardar Ubicación Actual</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_navigate">Ir</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_share">Compartir</string>
+    <string name="btn_grant_permission">Activar GPS</string>
+    <string name="hint_name">Nombre (ej. Cliente García, Taller)</string>
+    <string name="hint_fare">Tarifa (ej. 15.00)</string>
+    <string name="hint_notes">Notas breves (ej. Casa blanca, zaguán azul)</string>
+    <string name="label_fare">Tarifa</string>
+    <string name="backup_menu_title">Copia de Seguridad</string>
+    <string name="menu_export_backup">Exportar backup (JSON)</string>
+    <string name="menu_import_backup">Importar backup (JSON)</string>
+    <string name="menu_import_qr">Importar ubicación por código / QR</string>
+    <string name="empty_locations_title">Sin ubicaciones guardadas</string>
+    <string name="empty_locations_subtitle">Presiona el botón inferior para registrar tu posición GPS actual con su tarifa y notas.</string>
+    <string name="empty_search_title">No se encontraron resultados</string>
+    <string name="empty_search_subtitle">Intenta con otro término de búsqueda.</string>
+    <string name="nav_not_found_title">Navegador GPS no detectado</string>
+    <string name="nav_not_found_desc">No se encontró una aplicación de navegación instalada. Puedes abrir el destino en Google Maps o instalar Waze.</string>
+    <string name="open_maps">Abrir en Google Maps</string>
+    <string name="install_waze">Instalar Waze</string>
+</resources>

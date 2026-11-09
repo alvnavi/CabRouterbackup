@@ -1,0 +1,6 @@
+{
+  "name": "CabRouter",
+  "description": "Gestión de destinos, rutas y tarifas con navegación rápida y códigos QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
